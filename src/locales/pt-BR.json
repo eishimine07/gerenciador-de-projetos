@@ -1,0 +1,63 @@
+{
+  "component": {
+    "confirmationModal": {
+      "description": "Essa ação removerá definitivamente o projeto:",
+      "title": "Remover projeto"
+    },
+    "imageInput": {
+      "description": "Escolha uma imagem .jpg ou .png no seu dispositivo"
+    },
+    "onlyFavoriteProjectsSwitch": {
+      "label": "Apenas Favoritos"
+    },
+    "projectForm": {
+      "label": {
+        "client": "Cliente (Obrigatório)",
+        "cover": "Capa do projeto",
+        "deadline": "Data Final (Obrigatório)",
+        "title": "Nome do projeto (Obrigatório)",
+        "save": "Salvar projeto",
+        "start": "Data de Início (Obrigatório)"
+      }
+    },
+    "sortProjectsBy": {
+      "options": {
+        "alphabetical": "Ordem alfabética",
+        "recentlyStarted": "Iniciados mais recentes",
+        "upcomingDeadline": "Prazo mais próximo"
+      }
+    }
+  },
+  "error": {
+    "invalidDate": "Selecione uma data válida",
+    "minWords": "Por favor digite ao menos 1 palavra | Por favor digite ao menos {n} palavras"
+  },
+  "general": {
+    "back": "Voltar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "client": "Cliente",
+    "delete": "Remover",
+    "edit": "Editar",
+    "newProject": "Novo projeto",
+    "select": "Selecionar"
+  },
+  "view": {
+    "editProject": {
+      "title": "Editar projeto"
+    },
+    "newProject": {
+      "title": "@:general.newProject"
+    },
+    "projects": {
+      "title": "Projetos ({n})"
+    },
+    "searchProject": {
+      "title": "Resultado da busca"
+    }
+  },
+  "$vuetify": {
+    "close": "Fechar",
+    "open": "Abrir"
+  }
+}
